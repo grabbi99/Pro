@@ -605,10 +605,56 @@ int main ()
 }
 
 
+#24. Write a C program using while loop.
 
+#include <stdio.h>
 
+int main ()
+{
 
+   int a = 10;
 
+   while( a < 20 )
+   {
+       printf("Value of a: %d \n", a);
+       a++;
+   }
+
+   return 0;
+}
+
+#25. Write a C program using for loop.
+
+#include <stdio.h>
+
+int main ()
+{
+   int i;
+
+   for( i = 1; i < 20; i++)
+   {
+       printf("Value of i: %d \n", i);
+   }
+
+   return 0;
+}
+
+#26. Write a C program using do...while loop.
+
+#include <stdio.h>
+
+int main ()
+{
+   int a = 10;
+
+   do
+   {
+       printf("Value of a: %d \n", a);
+       a++;
+   }while( a < 20 );
+
+   return 0;
+}
 
 
 
