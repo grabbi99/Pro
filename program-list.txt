@@ -492,6 +492,118 @@ int main ()
 }
 
 
+#20. Write a C program calculate maximum value using function.
+
+#include <stdio.h>
+
+int max_number(int a, int b);
+
+int main ()
+{
+
+   int a = 20;
+   int b = 30;
+   int result;
+
+   result = max_number(a, b);
+
+   printf("The maximum value is %d \n", result);
+
+   return 0;
+}
+
+int max_number(a, b)
+{
+    int result;
+
+    if( a < b)
+    {
+        result = b;
+    }else
+    {
+        result = a;
+    }
+    return result;
+}
+
+
+#21. Write a C program using break statement.
+
+#include <stdio.h>
+
+int main ()
+{
+
+   int a = 5;
+
+   while( a < 20 )
+   {
+       printf("Value of a: %d \n", a);
+       a++;
+
+       if( a > 15 )
+       {
+           break;
+       }
+   }
+
+   return 0;
+}
+
+#22. Write a C program using continue statement.
+
+#include <stdio.h>
+
+int main ()
+{
+
+   int a = 10;
+
+   do
+   {
+       if ( a == 15 )
+       {
+           a++;
+           continue;
+       }
+       printf("Value of a: %d \n", a);
+       a++;
+   }while( a < 20 );
+
+   return 0;
+}
+
+#23. Print Prime number in range by user input.
+
+
+#include <stdio.h>
+
+int main ()
+{
+
+   int i, j, n;
+
+   printf("Enter the value of n \n", n);
+   scanf("%d", &n);
+
+   for( i = 1; i < n; i++ )
+   {
+       for( j = 2; j <= i; j++)
+       {
+           if ( i%j == 0)
+           {
+               break;
+           }
+       }
+       if(i == j)
+       {
+           printf("Prime number %d \n", i);
+       }
+   }
+
+   return 0;
+}
+
 
 
 
