@@ -1,0 +1,54 @@
+(a)Briefly explain token of C program.
+(b)Write ten keywords that are using in C.
+(c)Which is valid identifiers in C.
+(a) record1 (b) 1record
+(c) file_3 (d) return
+(e) #tax (f) name
+(g) goto (h) name and address
+
+(a)Write the data type with storage size .
+(b) Write a C program how to know the storage size of different data types using "sizeof" function.
+
+(a) Write a C program using Function return as void(add).
+(b) Write a C program using Extern keyword.
+
+(a)Define auto, Register and static storage class.
+(b) Write a C program using auto and static variable.
+
+(a) Write a C program using Arithmetic Operators.
+(b) Write a C program using Logical Operators.
+
+(a)Briefly explain if else statement.
+(b)Write a C program to calculate academic result.
+
+(a)Briefly explain switch statement.
+(b) Write a C program calculate maximum value using function.
+
+(a)Write about For loop.
+(b)Write a c program to show a given number is prime or not prime
+
+(a)Briefly explain break and continue statement.
+(b)Write a C program using Break statement.
+
+ (a)Write a C program using Continue statement.
+(b)Define call by value and call by reference.
+
+(a)Write a c program that use call by value of function.
+(b) Write a c program that use call by reference of function.
+
+(a)Write a C Program to print following pyramid.
+ 
+(a) Write a C program to calculate factorial n using recursive function.
+
+(a)Write a C program that shows matrix multiplication. 
+(b)Write a c program that show Fibonacci series.
+
+(a)What is point?
+(b)Write a C program pointer of array.
+(c)Write a C program increment of pointer.
+
+(a)Define Structure .Write a C program using Structure.
+(b)Define Union. Write a C program using Union.
+
+
+
