@@ -1,3 +1,4 @@
+1.
 (a)Briefly explain token of C program.
 (b)Write ten keywords that are using in C.
 (c)Which is valid identifiers in C.
@@ -6,47 +7,62 @@
 (e) #tax (f) name
 (g) goto (h) name and address
 
+2.
 (a)Write the data type with storage size .
 (b) Write a C program how to know the storage size of different data types using "sizeof" function.
 
+3.
 (a) Write a C program using Function return as void(add).
 (b) Write a C program using Extern keyword.
 
+4.
 (a)Define auto, Register and static storage class.
 (b) Write a C program using auto and static variable.
 
+5.
 (a) Write a C program using Arithmetic Operators.
 (b) Write a C program using Logical Operators.
 
+6.
 (a)Briefly explain if else statement.
 (b)Write a C program to calculate academic result.
 
+7.
 (a)Briefly explain switch statement.
 (b) Write a C program calculate maximum value using function.
 
+8.
 (a)Write about For loop.
 (b)Write a c program to show a given number is prime or not prime
 
+9.
 (a)Briefly explain break and continue statement.
 (b)Write a C program using Break statement.
 
+10.
 (a)Write a C program using Continue statement.
 (b)Define call by value and call by reference.
 
+11.
 (a)Write a c program that use call by value of function.
 (b) Write a c program that use call by reference of function.
 
+12.
 (a)Write a C Program to print following pyramid.
- 
+
+13.
 (a) Write a C program to calculate factorial n using recursive function.
 
+14.
 (a)Write a C program that shows matrix multiplication. 
 (b)Write a c program that show Fibonacci series.
 
+15.
 (a)What is point?
 (b)Write a C program pointer of array.
 (c)Write a C program increment of pointer.
 
+16.
 (a)Define Structure .Write a C program using Structure.
 (b)Define Union. Write a C program using Union.
 
