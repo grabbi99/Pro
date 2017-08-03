@@ -30,7 +30,7 @@
 (a)Briefly explain break and continue statement.
 (b)Write a C program using Break statement.
 
- (a)Write a C program using Continue statement.
+(a)Write a C program using Continue statement.
 (b)Define call by value and call by reference.
 
 (a)Write a c program that use call by value of function.
