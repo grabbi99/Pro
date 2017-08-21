@@ -1,3 +1,5 @@
+------------------ PART - A -------------------
+
 1.
 (a)Briefly explain token of C program.
 (b)Write ten keywords that are using in C.
@@ -30,6 +32,8 @@
 7.
 (a)Briefly explain switch statement.
 (b) Write a C program calculate maximum value using function.
+
+------------------ PART - B -------------------
 
 8.
 (a)Write about For loop.
